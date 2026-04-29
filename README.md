@@ -8,7 +8,8 @@
 👨🏽‍💻 Systems & Computing Engineer — learning and building in the Cloud.<br>
 ☁️ Exploring AWS, Azure, Python, and AI.<br>
 🚀 Early in my career, figuring things out one deploy at a time.<br>
-🎌 Anime &nbsp;|&nbsp; 📚 Reading &nbsp;|&nbsp; 🎮 Video games<br>
+<br>
+**Beyond the terminal** — I enjoy anime 🎌, reading 📚, and video games 🎮<br>
 <br>
 
 #
@@ -20,7 +21,12 @@
 
  #
 
-  <div align="center"><img align="center" alt="Icon-PY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;<img align="center" alt="Icon-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />&nbsp;&nbsp;<img align="center" alt="Icon-AZURE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;&nbsp;<img align="center" alt="Icon-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></div>
+  <div align="center">
+  <img alt="Icon-PY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Icon-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img alt="Icon-AZURE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img alt="Icon-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  </div>
 
 #
 
