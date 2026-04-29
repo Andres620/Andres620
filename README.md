@@ -5,9 +5,9 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/derewio-1d534a30-bf98-4e95-b876-267b0bfea1a1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVyZXdpby0xZDUzNGEzMC1iZjk4LTRlOTUtYjg3Ni0yNjdiMGJmZWExYTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MAHYh1Xpqjv-R0cSZtCRbmyO13JzitShLyOvTdYtJ9g" in-width="400px" max-width="550px" width="550px" align="right" alt="robot_1">
 
 #
-🎓👨🏽‍🎓 student of systems and computer engineering at the University of Caldas.<br>
-<br>
-<br>
+👨🏽‍💻 Systems & Computing Engineer — learning and building in the Cloud.<br>
+☁️ Exploring AWS, Azure, Python, and AI.<br>
+🚀 Early in my career, figuring things out one deploy at a time.<br>
 <br>
 
 #
@@ -21,14 +21,19 @@
     
   <div align="center">
   <img align="center" alt="Icon-PY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Icon-GO" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" alt="Icon-ICON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Icon-CSHARP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Icon-JAVASCRIPT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="Icon-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Icon-ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Icon-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Icon-AZURE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Icon-GCP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   </div>
   
+#
+
+<div align='center'>
+
+**Beyond the terminal** — I enjoy anime 🎌, reading 📚, and video games 🎮
+
+</div>
+
 #
 
 <div align='center'>
